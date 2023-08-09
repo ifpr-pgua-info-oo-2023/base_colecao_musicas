@@ -12,7 +12,7 @@
 <BorderPane xmlns="http://javafx.com/javafx" 
       xmlns:fx="http://javafx.com/fxml" 
       prefHeight="480" prefWidth="640"
-      fx:controller="ifpr.pgua.eic.listatelefonica.controllers.Principal"
+      fx:controller="ifpr.pgua.eic.colecaomusicas.controllers.Principal"
       >
 
     <padding>

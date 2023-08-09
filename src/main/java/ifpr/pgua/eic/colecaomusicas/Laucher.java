@@ -1,4 +1,4 @@
-package ifpr.pgua.eic.listatelefonica;
+package ifpr.pgua.eic.colecaomusicas;
 
 public class Laucher {
     

@@ -1,6 +1,6 @@
-package ifpr.pgua.eic.listatelefonica;
+package ifpr.pgua.eic.colecaomusicas;
 
-import ifpr.pgua.eic.listatelefonica.controllers.Principal;
+import ifpr.pgua.eic.colecaomusicas.controllers.Principal;
 import io.github.hugoperlin.navigatorfx.BaseAppNavigator;
 import io.github.hugoperlin.navigatorfx.ScreenRegistryFXML;
 
@@ -25,7 +25,7 @@ public class App extends BaseAppNavigator {
     @Override
     public String getAppTitle() {
         // TODO Auto-generated method stub
-        return "Lista Telefônica";
+        return "Coleção de Músicas";
     }
 
     @Override
